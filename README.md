@@ -1,3 +1,6 @@
+## Config Docs
+https://docs.mockend.com/config
+
 # REST examples
 
 ### User
