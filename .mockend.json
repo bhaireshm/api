@@ -1,5 +1,5 @@
 {
-  "User": {
+  "Users": {
     "name": {
       "string": {}
     },
@@ -28,7 +28,7 @@
       "boolean": {}
     }
   },
-    "Post": {
+    "Posts": {
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
@@ -61,7 +61,5 @@
       }
     }
   },
-  "Comment": {},
-  "Person": {},
-  "City": {}
+  "Comments": {}
 }
