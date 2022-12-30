@@ -30,7 +30,7 @@
   },
   "Post": {
     "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/500/300"
     },
     "title": {
       "loremWords": {
