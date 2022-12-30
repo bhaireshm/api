@@ -27,5 +27,9 @@
     "isPublic": {
       "boolean": {}
     }
-  }
+  },
+  "Post": {},
+  "Comment": {},
+  "Person": {},
+  "City": {}
 }
